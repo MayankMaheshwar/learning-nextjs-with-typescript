@@ -1,1 +1,1 @@
-# learning-nextjs-and-typescript
+# learning-nextjs-with-typescript

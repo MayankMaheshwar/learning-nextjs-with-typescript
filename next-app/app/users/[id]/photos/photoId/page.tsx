@@ -8,5 +8,5 @@ export const PhotoPage
  = ({params: {id, photoId}}: props) => {
   return (
     <div>PhotoPage {id} {photoId}</div>
-   
+  )
 }
